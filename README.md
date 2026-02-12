@@ -31,7 +31,7 @@ If a leader fails or loses trust, the community can overthrow them through prote
 
 We operate on socialist distribution: each works based on ability, each receives based on need.
 
-Extra work is recognized. If the community has surplus, harder workers receive better quality goods. If surplus is not available, they receive public recognition. This system is called **Stachorech**, named after ***Aleksej Stakhanov***.
+Extra work is recognized. If the community has surplus, harder workers receive better quality goods. If surplus is not available, they receive public recognition. This system is called **Stokhaned**, named after ***Aleksej Stakhanov***.
 
 No private accumulation of wealth that creates class division. No profit extracted from others' labor.
 

@@ -31,7 +31,7 @@ If a leader fails or loses trust, the community can overthrow them through prote
 
 We operate on socialist distribution: each works based on ability, each receives based on need.
 
-Extra work is recognized. If the community has surplus, harder workers receive better quality goods. If surplus is not available, they receive public recognition. This system is called **Stokhaned**, named after ***Aleksej Stakhanov***.
+Extra work is recognized. If the community has surplus, harder workers receive better quality goods. If surplus is not available, they receive public recognition. This system is called **Stokhaned**, inspired ***Aleksej Stakhanov***.
 
 No private accumulation of wealth that creates class division. No profit extracted from others' labor.
 
@@ -45,15 +45,15 @@ The national level exists to:
 
 - Assign jobs based on individual ability
 - Distribute resources fairly based on need
-- Reward harder workers where possible
+- Reward harder workers where possible (Stokhaned)
 
-Major decisions (war, foreign policy, structural change) are made collectively by all community leaders, or only those directly affected. No single leader decides for the whole, preventing rebellion.
+Major decisions (war, foreign policy, outside trading) are made collectively by all community leaders, or only those directly affected. No single leader decides for the whole, preventing rebellion.
 
 ---
 
 ## 5. Rights
 
-You have freedom of speech, movement, and privacy as long as you do not harm the community.
+You have freedom of speech, press, and privacy as long as you do not harm the community nor the state as a whole.
 
 Insulting a leader is not harm unless it becomes persistent or destabilizing. If you become annoying to the majority or to leadership itself, you will be expelled from the community.
 
@@ -67,7 +67,7 @@ There is no right to disrupt functional organization.
 
 **Liberalism** — Yes, in the sense of freedoms that do not damage the collective.
 
-**Socialism** — Yes, with Stachored.
+**Socialism** — Yes, with Stokhaned.
 
 **Militarism** — Yes. Defense is the core purpose of the state.
 

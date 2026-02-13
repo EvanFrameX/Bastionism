@@ -71,11 +71,11 @@ There is no right to disrupt functional organization.
 
 **Militarism** — Yes. Defense is the core purpose of the state.
 
-**Progressivism** — Conditional. Change only if the democratic vote wants it. Otherwise we stay as we are.
+**Progressivism** — Conditional. Change only if the democratic vote wants it. Otherwise we stay as we are if it's not necessary.
 
 **Anti-Conservatism** — Yes, where religion or tradition causes tangible harm to individuals or the state. No prohibition on harmless private belief.
 
-**Autarky** — Preferred, but trade is permitted when necessary.
+**Autarky** — Preferred with outside states unless it's necessary. Abolished between communities (the communities can work together)
 
 ---
 

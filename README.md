@@ -1,14 +1,14 @@
-# The Bastionist Manifesto
+# Idealimpero
 
-If you want the best practical system of organization, you can stay reading this manifesto to choose if to switch to Bastionism or not.
+If you have no idea where to put yourself in the vast world of politics, then you can consider reading through the end.
 
 ---
 
 ## 1. Communities
 
-Society splits into communities based on ideology. Leftists with leftists, rightists with rightists,centrists with centrists. This reduces internal conflict. People live among those they broadly agree with.
+Society splits into communities based on ideology (leftists with leftists, rightists with rightists, centrists with centrists, etcetera) to reduces internal conflict.
 
-Communities are not locked. If your views change, you can move. If you cause disruption, you will be forced to leave.
+If your views change, you can move to another community (or out of the state). If you cause major disruption, you will be forced to leave the community.
 
 ---
 
@@ -19,11 +19,11 @@ Each community chooses either a single Democratic Dictator (Rodangher) or in a B
 - Past work output — those who contributed more in the past are considered first
 - Physical capability — leadership includes military responsibility
 
-If multiple candidates exist and the community does not want a BDF, there is a vote. If the community prefers collective leadership, a BDF is formed.
+If multiple candidates exist and the community does not want a BDF, there is a vote. If the community prefers collective leadership, then a BDF is formed.
 
-Leaders are military figures. They defend the community and serve in the national military. Their decisions must account for democratic input and economic consequences: inflation, unfairness, harm to the community.
+Leaders defend the community and serve in the national military. Their decisions must account for democratic input (do their choices based on the democratic vote) and economic consequences (inflation, unfairness, harm to the community).
 
-If a leader fails or loses trust, the community can overthrow them through protest. After removal, the community may elect new leadership or enter direct communal military rule. In that case, all members under 24 must accept a military or support role. Other roles can be assigned if combat is not suitable.
+If a leader fails or loses trust, the community can overthrow them through protests. After removal, the community will elect new leadership
 
 ---
 
@@ -31,11 +31,11 @@ If a leader fails or loses trust, the community can overthrow them through prote
 
 We operate on socialist distribution: each works based on ability, each receives based on need.
 
-Extra work is recognized. If the community has surplus, harder workers receive better quality goods. If surplus is not available, they receive public recognition. This system is called **Stokhaned**, inspired ***Aleksej Stakhanov***.
+Extra work is recognized. If the community has surplus, harder workers choose to either receive better quality goods or a currency that can expire but can be used as money. If surplus is not available, they receive public recognition. This system is called **Stokhaned**, inspired by the Soviet miner ***Aleksej Stakhanov***.
 
-No private accumulation of wealth that creates class division. No profit extracted from others' labor.
+Communities share resources with each other when needed.
 
-Communities share resources with each other when requested. Complete autarky is not required; Trade with other nations is permitted when necessary.
+Complete autarky is not required; Trade with other nations is permitted when necessary, but must be democratically approved by whatever community is affected.
 
 ---
 
@@ -49,6 +49,10 @@ The national level exists to:
 
 Major decisions (war, foreign policy, outside trading) are made collectively by all community leaders, or only those directly affected. No single leader decides for the whole, preventing rebellion.
 
+Even though the military is mainly made out of the leaders of the communities, members who don't have education or experience can take a role in the national military. In case the military doesn't fit the member, simple community jobs (cashier, waiter, etcetera) are open.
+
+Similarly, in case a member can't work for the community, they can choose to either have the needed medical help to continue working or take a job online (programmer, gamedev, software developer, researcher, etc...)
+
 ---
 
 ## 5. Rights
@@ -58,6 +62,8 @@ You have freedom of speech, press, and privacy as long as you do not harm the co
 Insulting a leader is not harm unless it becomes persistent or destabilizing. If you become annoying to the majority or to leadership itself, you will be expelled from the community.
 
 There is no right to disrupt functional organization.
+
+**The only restrictions** include anything related to racism (including robophobia), sexism, anti-semitism, transphobia, homophobia, or anything that makes some people look weaker or inferior. Punishment depends on the Rodangher's/BDF's authoritarian choice (no democracy needed)
 
 ---
 
@@ -81,12 +87,12 @@ There is no right to disrupt functional organization.
 
 ## 7. Goal
 
-The goal of Bastionism is simple: keep the state untouched; fight foreign imperialism; maintain a strong, functional country.
+Keep the state untouched; fight foreign imperialism; maintain a strong, functional country.
 
 Not happiness or moral perfection, just defense and stability.
 
 ---
 
-## 8. Either Support Us or Ignore Us
+If these 7 concepts are similar to yours or you just agree, then you can consider becoming calling yourself a **Vanard** (comrade in Bastionist terms), otherwise you can continue looking through other ideologies (not recommended for the complexity) and become one with whoever suits you the best.
 
-This manifesto exists so you know what Bastionism actually is. If it suits you, adopt it. If it does not, continue as you were.
+In case you consider yourself Vanard, remember the salute is done by raising your hand slightly and letting space between your middle finger and ring finger (Glava)

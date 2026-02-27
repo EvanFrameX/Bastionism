@@ -93,17 +93,6 @@ Not happiness or moral perfection, just defense and stability.
 
 ---
 
-## Extra. Phyle Switch
-
-The **Phyle Switch** is the core value of Bastionism and defines its society and military
-
-**how to know if the switch is ON or OFF?**
-
-if it's **on**, then you belive in the system mentioned earlier with the Rodanghers or BDF in each community
-
-if it's **off**, then you belive in litterally anything else (Anarchy, Absolute Authority, etc...)
-
----
 If these concepts are similar to yours or you just agree, then you can consider becoming calling yourself a **Vanard** ("comrade" in Bastionist terms), otherwise you can continue looking through other ideologies (not recommended for the complexity) and become one with whoever suits you the best.
 
 In case you consider yourself Vanard, remember the **Glava** salute (Official Bastionist Salute)  is done by raising your hand slightly and letting space between your middle finger and ring finger

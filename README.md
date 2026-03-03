@@ -67,21 +67,23 @@ There is no right to disrupt functional organization.
 
 ---
 
-## 6. Position on Other Ideologies
+## 6. Separation in singular ideologies
 
-**Nationalism** — Yes. The state must be preserved.
+These are in case you agree with Bastionism but not all (not considered a Bastionist if you agree with less than half)
 
-**Liberalism** — Yes, in the sense of freedoms that do not damage the collective.
+**Stokhanovism** — The idea that Socialism works better when the quality of the resources you get is higher as you put more effort in the contribution of your community/state.
 
-**Socialism** — Yes, with Stokhaned.
+**Social Nationalism** — The idea that Autarky works but trading with outside countries is still a good thing in times of crisis or potential upgrade in the state
 
-**Militarism** — Yes. Defense is the core purpose of the state.
+**Federal Stratocracy** — The idea that the state should be devided into communities ruled by 1 or more people in the military
 
-**Progressivism** — Conditional. Change only if the democratic vote wants it. Otherwise we stay as we are if it's not necessary.
+**Protoligarchism** — The idea that the leader of a community or state should be choosen based on the effort and contribution put in the past years
 
-**Anti-Conservatism** — Yes, where religion or tradition causes tangible harm to individuals or the state. No prohibition on harmless private belief.
+**Rodangherism** — The idea that the government of a community or state must be 100% democratic
 
-**Autarky** — Preferred with outside states unless it's necessary. Abolished between communities (the communities can work together)
+**Expulsionism** — The idea that, instead of putting criminals in cells or execute them, they get banned from their community and, in more severe cases, from the state.
+
+**Teleproductivism** — The idea that, if someone is disabled in ways that make it difficult to work with others (e.g. Farmer, Doctor, Miner, etc...), they can work on internet-based jobs (e.g. Softwate Developing, Game Developing, etc...) 
 
 ---
 

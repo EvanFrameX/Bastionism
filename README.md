@@ -14,40 +14,38 @@ If your views change, you can move to another community (or out of the state). I
 
 ## 2. Leadership
 
-Each community chooses either a single Democratic Dictator (Rodangher) or in a BDF (Bastionist Defense Forces). Candidates are selected based on:
+Each community chooses either a single Democratic Dictator (Rodangher) or in a group. The candidates are selected based on:
 
-- Past work output — those who contributed more in the past are considered first
+- Past work output (PWO) — those who contributed more in the past are considered first
 - Physical capability — leadership includes military responsibility
 
-If multiple candidates exist and the community does not want a BDF, there is a vote. If the community prefers collective leadership, then a BDF is formed.
+If multiple candidates exist and the community wants a Rodangher, there is a vote. If the community prefers collective leadership, then a party is formed.
 
-Leaders defend the community and serve in the national military. Their decisions must account for democratic input (do their choices based on the democratic vote) and economic consequences (inflation, unfairness, harm to the community).
+Leaders defend the community and serve in the national military. Their decisions over their community must be account for democratic input (do their choices based on the democratic vote) and economic consequences (inflation, unfairness, harm to the community).
 
-If a leader fails or loses trust, the community can overthrow them through protests. After removal, the community will elect new leadership
+If a leader fails or loses trust, the community can overthrow them through protests. After removal, the community will elect a new leader
 
 ---
 
 ## 3. Economy
 
-We operate on socialist distribution: each works based on ability, each receives based on need.
+Bastionism operates on socialist distribution: everyone works based on ability and each receives based on need.
 
-Extra work is recognized. If the community has surplus, harder workers choose to either receive better quality goods or a currency that can expire but can be used as money. If surplus is not available, they receive public recognition. This system is called **Stokhaned**, inspired by the Soviet miner ***Aleksej Stakhanov***.
+Extra work is recognized. If the community has surplus, harder workers choose to either receive better quality goods or a currency that can expire but can be used as money. If surplus is not available, they receive public recognition. This system is called **Stokhaned** (name is inspired by the Soviet ***Aleksej Stakhanov***) 
 
-Communities share resources with each other when needed.
-
-Complete autarky is not required; Trade with other nations is permitted when necessary, but must be democratically approved by whatever community is affected.
+Communities share/trade resources with each other when needed. Complete autarky is not required; Trade with other nations is permitted when necessary, but must be democratically approved by whatever community is affected.
 
 ---
 
 ## 4. National Government
 
-The national level exists to:
+The national Bastionist Party exists to:
 
 - Assign jobs based on individual ability
 - Distribute resources fairly based on need
 - Reward harder workers where possible (Stokhaned)
 
-Major decisions (war, foreign policy, outside trading) are made collectively by all community leaders, or only those directly affected. No single leader decides for the whole, preventing rebellion.
+Major decisions (war, foreign policy, outside trading) are made collectively by all community leaders or only those directly affected. No single leader decides for the whole, preventing rebellion.
 
 Even though the military is mainly made out of the leaders of the communities, members who don't have education or experience can take a role in the national military. In case the military doesn't fit the member, simple community jobs (cashier, waiter, etcetera) are open.
 
@@ -77,7 +75,7 @@ These are in case you agree with Bastionism but not all (not considered a Bastio
 
 **Federal Stratocracy** — The idea that the state should be devided into communities ruled by 1 or more people in the military
 
-**Protoligarchism** — The idea that the leader of a community or state should be choosen based on the effort and contribution put in the past years
+**Proto-Oligarchism** — The idea that the leader of a community or state should be choosen based on the effort and contribution put in the past years
 
 **Rodangherism** — The idea that the government of a community or state must be 100% democratic
 
@@ -91,7 +89,7 @@ These are in case you agree with Bastionism but not all (not considered a Bastio
 
 Keep the state untouched; fight foreign imperialism; maintain a strong, functional country.
 
-Not happiness or moral perfection, just defense and stability.
+Not propaganda or moral perfection, just defense and stability.
 
 ---
 

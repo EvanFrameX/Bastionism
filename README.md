@@ -69,7 +69,7 @@ There is no right to disrupt functional organization.
 
 These are in case you agree with Bastionism but not all (not considered a Bastionist if you agree with less than half)
 
-**Stokhanovism** — The idea that Socialism works better when the quality of the resources you get is higher as you put more effort in the contribution of your community/state.
+**Stokhanevism** — The idea that Socialism works better when the quality of the resources you get is higher as you put more effort in the contribution of your community/state.
 
 **Social Nationalism** — The idea that Autarky works but trading with outside countries is still a good thing in times of crisis or potential upgrade in the state
 
